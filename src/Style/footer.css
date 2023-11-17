@@ -1,0 +1,15 @@
+.footer {
+
+    text-align: center;
+    background: rgba(0, 0, 0, .7);
+    padding: 8px 24px;
+    opacity: .95;
+    backdrop-filter: blur(8px);
+    color: dimgrey;
+}
+
+
+
+.footer h4 {
+    margin: 0;
+}

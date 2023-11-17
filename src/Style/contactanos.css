@@ -1,0 +1,10 @@
+.form-contacto{
+    background-image: url(../assets/imgCafe/art-latte-imagen-de-portada-600x400.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.form-input{
+margin: 0 20%;
+padding: 8.4rem;
+}

@@ -1,0 +1,17 @@
+.nosotros{
+    display: flex;
+}
+.nosotros img{
+    margin: 3rem;
+}
+.nosotros-text{
+    margin: 1.4rem;
+    text-align: center;
+}
+.nos{
+    margin: 0 2rem;
+}
+.text{
+    margin:1rem ;
+     text-align:center;
+}

@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Dancing Script', cursive;
+}
+
+
+.container-nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(0, 0, 0, .7);
+    color: white;
+}
+.container-nav h3{
+margin: 0.2rem 5rem;
+}
+.container-nav ul {
+list-style: none;
+display: flex;
+justify-content: space-around;
+align-items: center;
+margin: 0 6rem;
+
+}
+.container-nav ul li{
+
+    margin: 0 20px;
+    color: white;
+}
+.container-nav ul li a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,19 @@
+.header-container{
+    background-image: url(../src/assets/imgCafe/banner.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 94vh;
+}
+.header-text{
+    color:white;
+    position: absolute;
+    top: 34%;
+    left: 30%;
+}
+.header-subtext{
+    color: white;
+    position: absolute;
+    top: 43%;
+    left: 38%;
+}
