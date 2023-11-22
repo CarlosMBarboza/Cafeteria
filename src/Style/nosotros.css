@@ -1,5 +1,6 @@
 .nosotros{
     display: flex;
+    padding: 0.7rem;
 }
 .nosotros img{
     margin: 3rem;

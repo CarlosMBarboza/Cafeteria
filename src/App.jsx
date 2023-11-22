@@ -7,6 +7,7 @@ import GaleriaPage from './Pages/GaleriaPage'
 import NosotrosPage from './Pages/NosotrosPage'
 import ContactanosPage from './Pages/ContactanosPage'
 import Footer from "./Components/Footer"
+import EncontranosPage from './Pages/EncontranosPage'
 
 
 const App = () => {
@@ -22,6 +23,7 @@ const App = () => {
         <Route path="Galeria" element={<GaleriaPage/>} />
         <Route path="Nosotros" element={<NosotrosPage/>} />
         <Route path="Contactanos" element={<ContactanosPage/>} />
+        <Route path="Encontranos" element={<EncontranosPage/>} />
       </Routes>
       <Footer/>
       </BrowserRouter>

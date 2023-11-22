@@ -12,6 +12,7 @@ const Nav = () => {
                 <li><Link to="galeria">Galeria</Link></li>
                 <li><Link to="/nosotros">Nosotros</Link></li>
                 <li><Link to="/contactanos">Contactanos</Link></li>
+                <li><Link to="/encontranos">Encontranos</Link></li>
             </ul>
         </nav>
         </>

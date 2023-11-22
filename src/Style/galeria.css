@@ -1,5 +1,5 @@
 .galeria-text{
-    margin: 4rem ;
+    margin: 2rem ;
     text-align: center;
 }
 .img-text{
@@ -9,5 +9,6 @@
     justify-content:space-evenly;
 }
 .img-text img{
-    width: 33rem !important;
+    width: 33rem;
+    height: 20rem;
 }
