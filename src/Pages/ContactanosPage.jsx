@@ -22,17 +22,19 @@ const ContactanosPage = () => {
         }
 }
         return (
-            <div className="form-contacto" >
+            <>
+            
+            <div className="form-contacto">
 
-        <form  className="form-input" onSubmit={handleSubmit} ref={form}>
-        <input
-            className="form-control mb-2" 
-            type="text"
-            name="name"
-            placeholder="Nombre y Apellido" 
-            defaultValue='name'
-            />
+            <form  className="form-input" onSubmit={handleSubmit} ref={form}>
             <input
+                className="form-control mb-2" 
+                type="text"
+                name="name"
+                placeholder="Nombre y Apellido" 
+                defaultValue='name'
+                />
+                <input
                 className="form-control mb-2" 
                 type="tel"
                 name="phone"
@@ -58,8 +60,8 @@ const ContactanosPage = () => {
                 </select>
                     <button className="btn btn-info">Enviar</button>
                 </form>
-
     </div>
+    </>
     )
 }
 
