@@ -1,5 +1,5 @@
 .header-container{
-    background-image: url(../src/assets/imgCafe/banner.jpg);
+    background-image: url(/assets/imgCafe/banner.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

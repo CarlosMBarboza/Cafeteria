@@ -4,15 +4,16 @@ import '../Style/galeria.css'
 
 const GaleriaPage = () => {
     const images = [
-        "/src/assets/imgCafe/art-latte-imagen-de-portada-600x400 - copia.jpg" ,
-        "/src/assets/imgCafe/cafe-organico-600x511.jpg",
-        "/src/assets/imgCafe/blog3.jpg",
-        "/src/assets/imgCafe/blog2.jpg",
-        "/src/assets/imgCafe/blog1.jpg",
-        "/src/assets/imgCafe/curso2.jpg",
-        "/src/assets/imgCafe/curso1.jpg",
-        "/src/assets/imgCafe/curso3.jpg",
-        "/src/assets/imgCafe/nosotros.jpg",
+        "/assets/imgCafe/art-latte-imagen-de-portada-600x400 - copia.jpg" ,
+        "/assets/imgCafe/cafe-organico-600x511.jpg",
+        "/assets/imgCafe/blog3.jpg",
+        "/assets/imgCafe/blog2.jpg",
+        "/assets/imgCafe/blog1.jpg",
+        "/assets/imgCafe/curso2.jpg",
+        "/assets/imgCafe/curso1.jpg",
+        "/assets/imgCafe/curso3.jpg",
+        "/assets/imgCafe/nosotros.jpg",
+        "/assets/imgCafe/"
     ]
     return (
         <>

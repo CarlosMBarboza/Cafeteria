@@ -4,7 +4,7 @@ const NosotrosPage = () => {
     return (
         <div className="nosotros">
             <div>
-                <img src="/src/assets/imgCafe/nuestro-cafe-mobile.png" alt="img1" />
+                <img src="/assets/imgCafe/nuestro-cafe-mobile.png" alt="img1" />
             </div>
           
             <div className='nos'>
